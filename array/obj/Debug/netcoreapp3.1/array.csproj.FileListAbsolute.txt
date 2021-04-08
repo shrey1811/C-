@@ -1,0 +1,12 @@
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.exe
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.deps.json
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.json
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.dev.json
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.dll
+D:\C Sharp\array\bin\Debug\netcoreapp3.1\array.pdb
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.AssemblyInfoInputs.cache
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.AssemblyInfo.cs
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.csproj.CoreCompileInputs.cache
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.dll
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.pdb
+D:\C Sharp\array\obj\Debug\netcoreapp3.1\array.genruntimeconfig.cache

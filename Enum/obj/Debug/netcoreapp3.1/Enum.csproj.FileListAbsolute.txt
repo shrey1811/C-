@@ -1,0 +1,12 @@
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+D:\C Sharp\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+D:\C Sharp\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
