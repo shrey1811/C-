@@ -1,0 +1,12 @@
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.exe
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.deps.json
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.runtimeconfig.json
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.runtimeconfig.dev.json
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.dll
+D:\C Sharp\MultipleCatchException\bin\Debug\netcoreapp3.1\MultipleCatchException.pdb
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.AssemblyInfoInputs.cache
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.AssemblyInfo.cs
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.csproj.CoreCompileInputs.cache
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.dll
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.pdb
+D:\C Sharp\MultipleCatchException\obj\Debug\netcoreapp3.1\MultipleCatchException.genruntimeconfig.cache

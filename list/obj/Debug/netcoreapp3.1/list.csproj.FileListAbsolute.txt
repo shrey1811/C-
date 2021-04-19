@@ -1,0 +1,13 @@
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.exe
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.deps.json
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.json
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.dev.json
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.dll
+D:\C Sharp\list\bin\Debug\netcoreapp3.1\list.pdb
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.csprojAssemblyReference.cache
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.AssemblyInfoInputs.cache
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.AssemblyInfo.cs
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.csproj.CoreCompileInputs.cache
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.dll
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.pdb
+D:\C Sharp\list\obj\Debug\netcoreapp3.1\list.genruntimeconfig.cache

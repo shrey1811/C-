@@ -1,0 +1,12 @@
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.exe
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.deps.json
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.json
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.dev.json
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.dll
+D:\C Sharp\forloop\bin\Debug\netcoreapp3.1\forloop.pdb
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfoInputs.cache
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfo.cs
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.CoreCompileInputs.cache
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.dll
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.pdb
+D:\C Sharp\forloop\obj\Debug\netcoreapp3.1\forloop.genruntimeconfig.cache

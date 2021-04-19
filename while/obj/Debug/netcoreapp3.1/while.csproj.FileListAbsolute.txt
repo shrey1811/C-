@@ -1,0 +1,13 @@
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.exe
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.deps.json
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.runtimeconfig.json
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.runtimeconfig.dev.json
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.dll
+D:\C Sharp\while\bin\Debug\netcoreapp3.1\while.pdb
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.csprojAssemblyReference.cache
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.AssemblyInfoInputs.cache
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.AssemblyInfo.cs
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.csproj.CoreCompileInputs.cache
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.dll
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.pdb
+D:\C Sharp\while\obj\Debug\netcoreapp3.1\while.genruntimeconfig.cache

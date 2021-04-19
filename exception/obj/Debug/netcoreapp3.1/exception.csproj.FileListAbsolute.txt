@@ -1,0 +1,13 @@
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.exe
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.deps.json
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.dll
+D:\C Sharp\exception\bin\Debug\netcoreapp3.1\exception.pdb
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.csprojAssemblyReference.cache
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.csproj.CoreCompileInputs.cache
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.dll
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.pdb
+D:\C Sharp\exception\obj\Debug\netcoreapp3.1\exception.genruntimeconfig.cache
